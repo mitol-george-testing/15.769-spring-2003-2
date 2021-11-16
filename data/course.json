@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "284bc262-a1df-8a5b-6f48-64f0ae21244f",
+      "7dc4f466-b83d-3705-cb8d-3522fcc52c82"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Operations Strategy",
+  "course_description": "This course will address operations strategy by building on the concepts of:\n\n1.  Reengineering and process design developed by Dr. Michael Hammer.\n2.  Manufacturing strategy as developed in the literature, primarily by people at HBS.\n3.  Supply chain design and 3-D concurrent engineering literature as developed in Charles Fine\u2019s book, _Clockspeed: Winning Industry Control in the Age of Temporary Advantage._ Perseus Books, 1999.\n\nThe concepts there emphasize the necessity of integrating product strategy, manufacturing strategy, and supply chain strategy.\u00a0As a result, each of these will be touched upon in the course.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.769",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
